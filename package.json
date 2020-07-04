@@ -1,0 +1,19 @@
+{
+  "name": "graphqlandroid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AugustoGascaFarrera115/GraphQLAndroid.git"
+  },
+  "author": "SAUL",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AugustoGascaFarrera115/GraphQLAndroid/issues"
+  },
+  "homepage": "https://github.com/AugustoGascaFarrera115/GraphQLAndroid#readme"
+}
